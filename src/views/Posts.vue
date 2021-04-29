@@ -6,7 +6,7 @@
         <div class="column is-three-quarters">
           <h1 class="title" style="color: white;"><span v-if="show_title"> Hello DevOps World | </span> Share Your Thoughts! v1.1.2 </h1>
         </div>
-        <div class="column">
+        <div class="column">/
           <img src="../assets/DW_wordmark.png"/>
         </div>
       </div>
